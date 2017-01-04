@@ -9,7 +9,7 @@ Gerald Halomoan Samosir  (131113816)
 <br>
 Kevin Suwantio 
 <br>
-Santun  (131111254)
+Santun Arif Kurniawan  (131111254)
 <br><br>
 <b>Cara Install :</b>
 <br>
