@@ -11,9 +11,9 @@
 Tugas untuk memenuhi tugas kuliah 
 di bangun dengan express js(backend) , reactjs(frontend)
 <br><br>
-<b>Nama tim :</b>
+><b>Nama tim :</b>
 <br>
->Gerald Halomoan Samosir  (131113816)
+Gerald Halomoan Samosir  (131113816)
 <br>
 Kevin Suwantio (131110585)
 <br>
