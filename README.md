@@ -14,9 +14,9 @@ di bangun dengan express js(backend) , reactjs(frontend)
 <br>
 Gerald Halomoan Samosir  (131113816)
 <br>
-Kevin Suwantio (131110585)
+Kevin Suwantio 
 <br>
-Santun Arif Kurniawan  (131111254)
+Santun 
 <br><br>
 <b>Cara Install :</b>
 <br>
@@ -33,17 +33,28 @@ kemudian import file sqlnya kedatabase
  <br>
  kemudian npm start
 
-<b>Pemakaian <b>
+<b>Pemakaian </b>
 <br>
 di dalam project terdapat folder tampilan aplikasi
 yang berisi semua yang ada pada aplikasi
 <br>
 Untuk login  : 
-<table>
+<table class="table table-striped">
 <thead>
+    <th>No</th>
     <th>email</th>
     <th>password</th>
 </thead>
+    <tr>
+        <td>1</td>
+        <td>superadmin@mail.com</td>
+        <td>superadmin</td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>admin@mail.com</td>
+        <td>admin</td>
+    </tr>
 <tbody>
 </tbody>
 </table>
