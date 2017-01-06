@@ -5,6 +5,8 @@
    </head>
    <body>
         <b>Stok Aplication </b>
+        <br>
+        <a target='_blank' href= "https://david-dm.org/geraldsamosir/tugas-_topik_khsusu"><img src='https://david-dm.org/geraldsamosir/tugas-_topik_khsusu/status.svg'></a>
         
 <br>
 Tugas untuk memenuhi tugas kuliah 
