@@ -14,9 +14,9 @@ di bangun dengan express js(backend) , reactjs(frontend)
 <br>
 Gerald Halomoan Samosir  (131113816)
 <br>
-Kevin Suwantio 
+Kevin Suwantio (131110585)
 <br>
-Santun 
+Santun Arif Kurniawan (131111254) 
 <br><br>
 <b>Cara Install :</b>
 <br>
@@ -51,7 +51,7 @@ Untuk login  :
         <td>superadmin</td>
     </tr>
     <tr>
-        <td></td>
+        <td>2</td>
         <td>admin@mail.com</td>
         <td>admin</td>
     </tr>
