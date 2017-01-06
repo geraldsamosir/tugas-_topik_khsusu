@@ -6,10 +6,8 @@
    <body>
         <b>Stok Aplication </b>
         <hr/>
-        <br><br>
         <a href="https://david-dm.org/geraldsamosir/tugas-_topik_khsusu" title="dependencies status"><img src="https://david-dm.org/geraldsamosir/tugas-_topik_khsusu/status.svg?style=flat-square"/></a>
-        
-<br>
+        <br><br>
 Tugas untuk memenuhi tugas kuliah 
 di bangun dengan express js(backend) , reactjs(frontend)
 <br><br>
