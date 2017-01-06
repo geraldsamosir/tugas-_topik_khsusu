@@ -17,7 +17,7 @@ di bangun dengan express js(backend) , reactjs(frontend)
 <br>
 Kevin Suwantio (131110585)
 <br>
-Santun Arif Kurniawan (131111254) 
+Santun Arif Kurniawan (131111254) .
 <br><br>
 <b>Cara Install :</b>
 <br>
